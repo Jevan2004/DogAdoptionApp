@@ -54,6 +54,9 @@ class GUI : public QWidget
     QPushButton* redo;
     QPushButton* viewAdoptionListButton;
     QListWidget* allAdoptedPets;
+    QShortcut* undo_shortcut;
+    QShortcut* redo_shortcut;
+
     AdoptionListModel* adoptionListModel;
 
 public:

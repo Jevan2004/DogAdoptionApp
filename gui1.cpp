@@ -20,6 +20,7 @@
 #include <QHeaderView>
 #include <QVBoxLayout>
 #include <QDialog>
+#include <QShortcut>
 
 GUI::GUI(Service& serv,  AdoptionListService& adopstion_service,  QWidget* parent): QWidget{ parent }, adoption_service{adopstion_service} , service{ serv }
 {
@@ -35,6 +36,9 @@ GUI::GUI(Service& serv,  AdoptionListService& adopstion_service,  QWidget* paren
     connect(undo, &QPushButton::clicked, this, &GUI::execute_undo);
     connect(redo, &QPushButton::clicked, this, &GUI::execute_redo);
     connect(viewAdoptionListButton, &QPushButton::clicked, this, &GUI::viewAdoptionList);
+
+    connect(undo_shortcut, &QShortcut::activated,this, &GUI::execute_undo);
+    connect(redo_shortcut, &QShortcut::activated,this, &GUI::execute_redo);
 
 
 }
@@ -87,6 +91,10 @@ void GUI::initGUI() {
     buttonsLayout->addWidget(undo,2,0);
     buttonsLayout->addWidget(redo,2,2);
     buttonsLayout->addWidget(viewAdoptionListButton, 3, 0);
+
+    undo_shortcut = new QShortcut(QKeySequence(Qt::CTRL | Qt::Key_Z), this);
+    redo_shortcut = new QShortcut(QKeySequence(Qt::CTRL | Qt::Key_Y), this);
+
 
     adminLayout->addLayout(buttonsLayout);
 

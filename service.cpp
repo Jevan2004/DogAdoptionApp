@@ -91,6 +91,10 @@ std::vector<Pets> Service::get_pets_by_breed_and_age(std::string breed, int age)
 }
 
 void Service::undo() {
+    if(undo_stack.empty())
+    {
+        throw std::invalid_argument("No more undoes");
+    }
     if (!undo_stack.empty()) {
         Action* action = undo_stack.back();
         action->execute_undo();
@@ -100,6 +104,11 @@ void Service::undo() {
 }
 
 void Service::redo() {
+    if(redo_stack.empty())
+    {
+        throw std::invalid_argument("No more undoes");
+    }
+
     if (!redo_stack.empty()) {
         Action* action = redo_stack.back();
         action->execute_redo();
