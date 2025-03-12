@@ -455,7 +455,6 @@ void GUI::viewAdoptionList() {
     QVBoxLayout* layout = new QVBoxLayout(dialog);
     QTableView* adoptionListView = new QTableView(dialog);
 
-    // Create the model with the current adoption list
     adoptionListModel = new AdoptionListModel(adoption_service.get_adoption_list(), this);
     adoptionListView->setModel(adoptionListModel);
     adoptionListView->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);

@@ -1,0 +1,5 @@
+D:/HomeworksOOP/oop-a10-Jevan2004/cmake-build-debug/CMakeFiles/oop_a10_Jevan2004.dir
+D:/HomeworksOOP/oop-a10-Jevan2004/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HomeworksOOP/oop-a10-Jevan2004/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/HomeworksOOP/oop-a10-Jevan2004/cmake-build-debug/CMakeFiles/oop_a10_Jevan2004_autogen_timestamp_deps.dir
+D:/HomeworksOOP/oop-a10-Jevan2004/cmake-build-debug/CMakeFiles/oop_a10_Jevan2004_autogen.dir

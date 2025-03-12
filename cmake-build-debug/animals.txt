@@ -1,0 +1,9 @@
+Scooby Doo,Great Dane,7,https://ro.wikipedia.org/wiki/Scooby-Doo_%28personaj%29#/media/Fi%C8%99ier:Scooby-Doo_eats_live_sandwich.JPG
+Lassie,Rough Collie,7,https://en.wikipedia.org/wiki/Lassie#/media/File:Lassie_and_Tommy_Rettig_1956.JPG
+Kuma,Australian shepherd dog,6,https://m.media-amazon.com/images/M/MV5BMTY3Nzg0NDExNF5BMl5BanBnXkFtZTgwMDM4MTg1NDE@._V1_.jpg
+Cupcake,Rottweiler,4,https://i.pinimg.com/564x/2b/a7/87/2ba7873c596ecd754179911a21097684.jpg
+ThunderLord the destroyer of worlds,German Shepard,4,https://media1.tenor.com/m/wtsy01hLYckAAAAd/i-have-no-enemies-enemies.gif
+Doge,Akita,9,https://www.researchgate.net/publication/359456368/figure/fig1/AS:11431281103138195@1669617009814/A-blank-doge-meme-template.png
+Max,Siberian Husky,2,https://cdn.britannica.com/84/232784-050-1769B477/Siberian-Husky-dog.jpg
+Casper,Great Pyrenees,10,https://people.com/thmb/alcuRy1218oBeyDtq31oXKLUxZk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2):format(webp)/decatur-sheepdog-casper-coyotes-attack-120922-1-654e1b73a57845a7b969f1e0d984c250.jpg
+pop,German Shepard,4,dasdsadas

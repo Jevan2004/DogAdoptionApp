@@ -1,0 +1,2 @@
+Roach,Horse,10,https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/07/the-witcher-3-roach-on-rooftop-gwent.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5
+Max,German Shepard,4,https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQnHykeJT7z-1d4NQBZBAIdr3QwHmCR1UBpo6JYVPy3M3mSsr4M60gX4nmC3iZ0p_6k

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_oop_a10_Jevan2004_FILE D:/HomeworksOOP/oop-a10-Jevan2004/cmake-build-debug/oop_a10_Jevan2004.exe)
+set(__QT_DEPLOY_TARGET_oop_a10_Jevan2004_RUNTIME_DLLS D:/QT/6.7.0/mingw_64/bin/Qt6Charts.dll;D:/QT/6.7.0/mingw_64/bin/Qt6Network.dll;D:/QT/6.7.0/mingw_64/bin/Qt6OpenGLWidgets.dll;D:/QT/6.7.0/mingw_64/bin/Qt6Widgets.dll;D:/QT/6.7.0/mingw_64/bin/Qt6OpenGL.dll;D:/QT/6.7.0/mingw_64/bin/Qt6Gui.dll;D:/QT/6.7.0/mingw_64/bin/Qt6Core.dll)
