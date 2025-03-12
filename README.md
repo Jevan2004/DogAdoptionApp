@@ -12,4 +12,4 @@ The admin can:
 * See the file with all dogs
 * See a chart with how many dogs are by breed
 
-The data app can be save in Text, CSV or HTML files
+The data about the dogs and adopted dogs can be saved in Text, CSV or HTML files
